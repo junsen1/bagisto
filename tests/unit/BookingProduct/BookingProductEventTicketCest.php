@@ -9,6 +9,7 @@ use Webkul\Checkout\Models\CartItem;
 use Helper\Bagisto;
 use Webkul\Product\Models\Product;
 
+
 class BookingProductEventTicketCest
 {
     protected $typeHelper, $bookingProduct;
